@@ -17,7 +17,7 @@ var path_index = 0;
 var startTime;
 var step_time = 15; //milliseconds 
 var robot,lattice, ramp;
-var play = 0;
+var play = 1;
 
 window.onload = function init()
 {
